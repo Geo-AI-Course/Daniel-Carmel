@@ -1,0 +1,22 @@
+# CSV data files — BANTAL is proprietary (מפ"י license), never commit
+*.csv
+
+# QGIS layer metadata
+*.qmd
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
